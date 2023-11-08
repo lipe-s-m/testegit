@@ -1,6 +1,4 @@
 # Curso Digital: Git
 
-## estado
-
-### balela
+## alterei 
 
