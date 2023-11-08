@@ -3,5 +3,4 @@
 ## alterei 
 
 ### comando git push
-### comando git pull
-### lalalalaa
+### comando git pull !
